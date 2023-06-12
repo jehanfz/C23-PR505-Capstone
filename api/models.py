@@ -3,7 +3,7 @@ from flask_sqlalchemy import SQLAlchemy
 from werkzeug.security import check_password_hash, generate_password_hash
 
 app = Flask(__name__)
-app.config['SQLALCHEMY_DATABASE_URI'] = "mysql://root:@localhost:3306/batik"
+app.config['SQLALCHEMY_DATABASE_URI'] = "sqlite:///db.sqlite"
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 app.config['SECRET_KEY'] = "4a72e70144b77601baeff6fab3a8462a"
 app.config['SECURITY_PASSWORD_SALT'] = "0mS5uWVCHu2SXLnA3XPEDA"
