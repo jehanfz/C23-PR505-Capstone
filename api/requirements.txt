@@ -1,9 +1,9 @@
-Flask
-Flask-RESTFul
-Flask-SQLAlchemy
-gunicorn
+Flask==2.3.2
+Flask-RESTFul==0.3.10
+Flask-SQLAlchemy==3.0.3
+gunicorn==20.1.0
 keras
-numpy
-opencv-contrib-python
+numpy==1.23.5
+opencv-contrib-python==4.7.0.68
 tensorflow
-Werkzeug
+Werkzeug==2.3.4
