@@ -3,10 +3,7 @@ Flask-RESTFul
 Flask-SQLAlchemy
 gunicorn
 keras
-mysqlclient
-mysql-connector-python
 numpy
 opencv-contrib-python
-pymysql
 tensorflow
 Werkzeug

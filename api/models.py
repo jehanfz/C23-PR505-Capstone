@@ -1,4 +1,5 @@
 from flask import Flask
+from datetime import datetime
 from flask_sqlalchemy import SQLAlchemy
 from werkzeug.security import check_password_hash, generate_password_hash
 
@@ -31,3 +32,8 @@ class User(db.Model):
 
     def check_password(self, password):
         return check_password_hash(self.password, password)
+    
+class HistoryPrediksi(db.Model):
+    id = db.Column(db.Integer, primary_key=True)
+    gambar = db.Column(db.String(255))
+    tanggal = db.Column(db.DateTime, default=datetime.utcnow)
