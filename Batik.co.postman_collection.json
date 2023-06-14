@@ -1,0 +1,104 @@
+{
+	"info": {
+		"_postman_id": "dbe9f82e-0024-44cd-8778-cf4377e35519",
+		"name": "Batik.co",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "22379908"
+	},
+	"item": [
+		{
+			"name": "register",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"email\": \"tester@gmail.com\",\r\n    \"username\": \"tester\",\r\n    \"password\": \"tester\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://34.30.122.111:8080/register",
+					"protocol": "http",
+					"host": [
+						"34",
+						"30",
+						"122",
+						"111"
+					],
+					"port": "8080",
+					"path": [
+						"register"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "login",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"email\": \"tester@gmail.com\",\r\n    \"password\": \"tester\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://34.30.122.111:8080/login",
+					"protocol": "http",
+					"host": [
+						"34",
+						"30",
+						"122",
+						"111"
+					],
+					"port": "8080",
+					"path": [
+						"login"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "prediksi",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "gambar",
+							"type": "file",
+							"src": "/D:/IMG-20210925-WA0022.jpg"
+						}
+					]
+				},
+				"url": {
+					"raw": "http://34.30.122.111:8080/prediksi",
+					"protocol": "http",
+					"host": [
+						"34",
+						"30",
+						"122",
+						"111"
+					],
+					"port": "8080",
+					"path": [
+						"prediksi"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
