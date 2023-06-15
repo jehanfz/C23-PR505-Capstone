@@ -6,7 +6,7 @@ We are designing *batik co.* a color detection application for Batik UMKM. With 
 
 <p align="center">
   <br>
-  <img  width="1280px" src="https://github.com/jehanfz/C23-PR505-Capstone/blob/main/Archives/Batik%20Co.%20Logo.png" />
+  <img  width="1280px" src="https://github.com/jehanfz/C23-PR505-Capstone/blob/main/Archives/batik%20co..png" />
 </p>
 <br>
 
