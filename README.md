@@ -4,6 +4,8 @@ C23-PR505's Capstone Project GitHub Repository
 Hi! Welcome to our team's capstone project! 👋
 We are designing *batik co.* a color detection application for Batik UMKM. With our application, Batik UMKM owner can easily scan and determine the right amount of RGB values that matches the costumer's liking. 
 
+![Alt text](https://github.com/jehanfz/C23-PR505-Capstone/blob/main/Archives/Batik%20Co.%20Logo.png)
+
 ## Get to Know the Dream-Workers 🚀
 To make the dream work, this project have 6 people from the Bangkit 2023 program behind it!
 - 📱 Android Development : Yohana Putrisia Sitohang 
