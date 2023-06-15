@@ -9,7 +9,7 @@ We are designing *batik co.* a color detection application for Batik UMKM. With 
 ## A Little Glimpse of the Application 💫
 <p align="center">
 <img  width="160px" heigth="265" src="https://github.com/jehanfz/C23-PR505-Capstone/blob/main/Archives/Splash%20Screen.jpeg" />
-<img  width="160px" heigth="275" src="https://github.com/jehanfz/C23-PR505-Capstone/blob/main/Archives/Login%20Page.jpeg" />
+<img  width="160px" heigth="280" src="https://github.com/jehanfz/C23-PR505-Capstone/blob/main/Archives/Login%20Page.jpeg" />
 <img  width="160px" src="https://github.com/jehanfz/C23-PR505-Capstone/blob/main/Archives/Register%20Page.jpeg" />
 </p>
 <br>
