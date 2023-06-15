@@ -7,9 +7,24 @@ We are designing *batik co.* a color detection application for Batik UMKM. With 
 ![Alt text](https://github.com/jehanfz/C23-PR505-Capstone/blob/main/Archives/Batik%20Co.%20Logo.png)
 
 ## A Little Glimpse of the Application 💫
-![Alt text](https://github.com/jehanfz/C23-PR505-Capstone/blob/main/Archives/Splash%20Screen.jpeg) ![Alt text](https://github.com/jehanfz/C23-PR505-Capstone/blob/main/Archives/Login%20Page.jpeg) ![Alt text](https://github.com/jehanfz/C23-PR505-Capstone/blob/main/Archives/Register%20Page.jpeg) 
-![Alt text](https://github.com/jehanfz/C23-PR505-Capstone/blob/main/Archives/Main%20Page.jpeg) ![Alt text](https://github.com/jehanfz/C23-PR505-Capstone/blob/main/Archives/Camera%20Page.jpeg)
-![Alt text](https://github.com/jehanfz/C23-PR505-Capstone/blob/main/Archives/Result%20Page.jpeg) ![Alt text](https://github.com/jehanfz/C23-PR505-Capstone/blob/main/Archives/Result%20Library.jpeg)
+<p align="center">
+<img  width="160px" src="https://github.com/jehanfz/C23-PR505-Capstone/blob/main/Archives/Splash%20Screen.jpeg" />
+<img  width="160px" src="https://github.com/jehanfz/C23-PR505-Capstone/blob/main/Archives/Login%20Page.jpeg" />
+<img  width="160px" src="https://github.com/jehanfz/C23-PR505-Capstone/blob/main/Archives/Register%20Page.jpeg" />
+</p>
+<br>
+
+<p align="center">
+<img  width="200px" src="https://github.com/jehanfz/C23-PR505-Capstone/blob/main/Archives/Main%20Page.jpeg" />
+<img  width="200px" src="https://github.com/jehanfz/C23-PR505-Capstone/blob/main/Archives/Camera%20Page.jpeg" />
+</p>
+<br>
+
+<p align="center">
+<img  width="200px" src="https://github.com/jehanfz/C23-PR505-Capstone/blob/main/Archives/Result%20Page.jpeg" />
+<img  width="200px" src="https://github.com/jehanfz/C23-PR505-Capstone/blob/main/Archives/Result%20Library.jpeg" />
+</p>
+<br>
 
 ## Get to Know the Dream-Workers 🚀
 To make the dream work, this project have 6 people from the Bangkit 2023 program behind it!
