@@ -6,14 +6,14 @@ We are designing *batik co.* a color detection application for Batik UMKM. With 
 
 <p align="center">
   <br>
-  <img  width="1280px" height="480px"src="https://github.com/jehanfz/C23-PR505-Capstone/blob/main/Archives/Batik%20Co.%20Logo.png" />
+  <img  width="1280px" height="640px"src="https://github.com/jehanfz/C23-PR505-Capstone/blob/main/Archives/Batik%20Co.%20Logo.png" />
 </p>
 <br>
 
 ## A Little Glimpse of the Application 💫
 <p align="center">
 <img  width="160px" height="265px" src="https://github.com/jehanfz/C23-PR505-Capstone/blob/main/Archives/Splash%20Screen.jpeg" />
-<img  width="160px" height="280px" src="https://github.com/jehanfz/C23-PR505-Capstone/blob/main/Archives/Login%20Page.jpeg" />
+<img  width="160px" height="270px" src="https://github.com/jehanfz/C23-PR505-Capstone/blob/main/Archives/Login%20Page.jpeg" />
 <img  width="160px" src="https://github.com/jehanfz/C23-PR505-Capstone/blob/main/Archives/Register%20Page.jpeg" />
 </p>
 <br>
